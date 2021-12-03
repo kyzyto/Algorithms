@@ -1,3 +1,4 @@
+# Sorting Algorithms
 1. Counting Sort
 2. Heap Sort
 3. Insertion Sort
